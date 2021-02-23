@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Cinema_Room_Manager.iml" filepath="$PROJECT_DIR$/.idea/modules/Cinema_Room_Manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Cinema Room Manager/task/Cinema_Room_Manager.Cinema_Room_Manager-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Cinema Room Manager/task/Cinema_Room_Manager.Cinema_Room_Manager-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Cinema Room Manager/task/Cinema_Room_Manager.Cinema_Room_Manager-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Cinema Room Manager/task/Cinema_Room_Manager.Cinema_Room_Manager-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Cinema Room Manager/task/Cinema_Room_Manager.Cinema_Room_Manager-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Cinema Room Manager/task/Cinema_Room_Manager.Cinema_Room_Manager-task.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Blocks in a box/Cinema_Room_Manager.Problems-Blocks_in_a_box.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Blocks in a box/Cinema_Room_Manager.Problems-Blocks_in_a_box.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Blocks in a box/Cinema_Room_Manager.Problems-Blocks_in_a_box.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Blocks in a box/Cinema_Room_Manager.Problems-Blocks_in_a_box.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Blocks in a box/Cinema_Room_Manager.Problems-Blocks_in_a_box.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Blocks in a box/Cinema_Room_Manager.Problems-Blocks_in_a_box.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Manager/Cinema_Room_Manager.Problems-Manager.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Manager/Cinema_Room_Manager.Problems-Manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Manager/Cinema_Room_Manager.Problems-Manager.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Manager/Cinema_Room_Manager.Problems-Manager.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Manager/Cinema_Room_Manager.Problems-Manager.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Manager/Cinema_Room_Manager.Problems-Manager.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Positive, Negative or Zero/Cinema_Room_Manager.Problems-Positive,_Negative_or_Zero.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Positive, Negative or Zero/Cinema_Room_Manager.Problems-Positive,_Negative_or_Zero.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Positive, Negative or Zero/Cinema_Room_Manager.Problems-Positive,_Negative_or_Zero.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Positive, Negative or Zero/Cinema_Room_Manager.Problems-Positive,_Negative_or_Zero.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Positive, Negative or Zero/Cinema_Room_Manager.Problems-Positive,_Negative_or_Zero.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Positive, Negative or Zero/Cinema_Room_Manager.Problems-Positive,_Negative_or_Zero.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Cinema_Room_Manager.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Cinema_Room_Manager.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Cinema_Room_Manager.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Cinema_Room_Manager.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Cinema_Room_Manager.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Cinema_Room_Manager.util.test.iml" />
+    </modules>
+  </component>
+</project>
